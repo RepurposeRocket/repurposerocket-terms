@@ -7,7 +7,7 @@ permalink: /terms/
 
 <style>
 /* Keep the typography you just finalised */
-body {font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.6;color:#222;width:100%;margin:0 auto;padding:2rem 1.5rem;}
+body {font-family:"Helvetica Neue",Arial,sans-serif;font-size:1rem;line-height:1.6;color:#222;width:70%;margin:0 auto;padding:2rem 1.5rem;}
 h1   {font-size:2.75rem;margin:2rem 0 1rem;}
 p,li {margin-bottom:1.25rem;}
 ul,ol{padding-left:1.5rem;}
@@ -73,7 +73,6 @@ We may update these Terms; material changes will be posted with a new “Last up
 15. Governing Law & Dispute Resolution
 These Terms are governed by the laws of the State of Texas, USA, without regard to conflict-of-laws rules. Any dispute shall be resolved by binding arbitration in Austin, Texas, under AAA Commercial Rules. Either party may seek injunctive relief in state or federal court to protect intellectual property.
 
-16. Contact
-Questions? Email <p>Contact: <a href="mailto:hello@repurposerocket.io">hello@repurposerocket.io</a></p>
+16. Contact Questions? Email <p>Contact: <a href="mailto:hello@repurposerocket.io">hello@repurposerocket.io</a></p>
 
 <p><a href="https://repurposerocket.io/">← Back to Repurpose Rocket</a></p>
