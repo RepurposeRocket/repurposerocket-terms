@@ -3,17 +3,12 @@ layout: none
 permalink: /terms/
 ---
 
-<!-- Give the browser a responsive viewport -->
+<!-- Make the browser use the device width,
+     and a fluid font-size between 16px↔20px -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-  /* … your CSS goes here … */
-</style>
-
-<style>
-  /* Fluid typography: grow/shrink between min & max */
   html {
-    /* Base font: between 16px and 20px, scaling with 1.5vw */
     font-size: clamp(16px, 1.5vw, 20px);
   }
   body {
@@ -25,17 +20,21 @@ permalink: /terms/
     line-height: 1.6;
   }
   h1 {
-    /* H1: between 32px and 48px, scaling with 4vw */
     font-size: clamp(32px, 4vw, 48px);
     margin: 2rem 0 1rem;
   }
   p, li {
-    /* Body text: between 18px and 24px, scaling with 2vw */
     font-size: clamp(18px, 2vw, 24px);
     margin-bottom: 1.25rem;
   }
   ul, ol {
     padding-left: 1.5rem;
+  }
+  .last-updated {
+    font-size: clamp(0.875rem, 1vw, 1rem);
+    color: #666;
+    margin-bottom: 2rem;
+    display: block;
   }
   a {
     color: #303F91;
@@ -46,13 +45,8 @@ permalink: /terms/
   a:hover {
     border-color: transparent;
   }
-  .last-updated {
-    font-size: clamp(0.875rem, 1vw, 1rem);
-    color: #666;
-    margin-bottom: 2rem;
-    display: block;
-  }
 </style>
+
 
 
 # Terms & Conditions
@@ -64,7 +58,10 @@ By accessing repurposerocket.io (the “Site”) and any services we provide (co
 
 2. Who We Are
 Repurpose Rocket is a trading name of Sam Francisco Productions LLC (“Company,” “we,” “us,” “our”), registered in the State of Texas, USA.
-Contact: hello@repurposerocket.io
+<span class="last-updated">Last updated: June 2025</span>
+
+<p>Contact: <a href="mailto:hello@repurposerocket.io">hello@repurposerocket.io</a></p>
+
 
 3. Eligibility
 The Service is intended for users 13 years of age or older. By using the Service, you represent that you are at least 13 and, if under 18, have parental permission.
