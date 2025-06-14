@@ -14,7 +14,7 @@ permalink: /terms/
     color: #222;
 
     /* remove any max-width cap */
-    width: 80%;
+    width: 70%;
     margin: 0 auto;
     padding: 2rem 1.5rem;
   }
