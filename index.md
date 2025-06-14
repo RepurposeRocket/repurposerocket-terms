@@ -1,8 +1,9 @@
 ---
-layout: page        # tells Jekyll to wrap with the “page” template
 title: Terms & Conditions
-permalink: /terms/  # pretty URL → .../terms/
+layout: none          # <- tells Jekyll “render the Markdown with NO theme”
+permalink: /terms/    # keep the pretty URL you already linked to
 ---
+
 
 
 Last updated: June 2025  
