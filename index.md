@@ -1,15 +1,27 @@
 ---
-layout: page           # tells Jekyll to wrap with the “page” template
-title: Terms & Conditions
-permalink: /terms/      # pretty URL → …/terms/
+layout: none
+permalink: /terms/
 ---
 
+<style>
+  /* Quick, page-only styles: adjust font & layout to match your Framer site */
+  body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 2rem;
+    color: #222;
+    line-height: 1.6;
+  }
+  h1 {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+  }
+</style>
+
+# Terms &amp; Conditions
+
 Last updated: June 2025
-
-Repurpose Rocket – Terms and Conditions of Use
-…
-
-Last updated: [June 13, 2025]
 
 1. Agreement to Terms
 By accessing repurposerocket.io (the “Site”) and any services we provide (collectively, the “Service”), you agree to be bound by these Terms and our Privacy Policy. If you disagree with any part, please do not use the Service.
