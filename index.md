@@ -3,49 +3,54 @@ layout: none
 permalink: /terms/
 ---
 
-<!-- Make the browser use the device width,
-     and a fluid font-size between 16px↔20px -->
+<!-- Responsive re-wrap container — no max-width cap -->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
-  html {
-    font-size: clamp(16px, 1.5vw, 20px);
-  }
   body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
-    max-width: 720px;
+    font-size: 1rem;       /* ~16px fixed */
+    line-height: 1.6;
+    color: #222;
+
+    /* remove any max-width cap */
+    width: 100%;
     margin: 0 auto;
     padding: 2rem 1.5rem;
-    color: #222;
-    line-height: 1.6;
   }
+
   h1 {
-    font-size: clamp(32px, 4vw, 48px);
+    font-size: 2.75rem;    /* ~44px fixed */
     margin: 2rem 0 1rem;
   }
-  p, li {
-    font-size: clamp(18px, 2vw, 24px);
-    margin-bottom: 1.25rem;
-  }
-  ul, ol {
-    padding-left: 1.5rem;
-  }
+
   .last-updated {
-    font-size: clamp(0.875rem, 1vw, 1rem);
+    font-size: 0.875rem;   /* ~14px */
     color: #666;
     margin-bottom: 2rem;
     display: block;
   }
+
+  p, li {
+    margin-bottom: 1.25rem;
+  }
+
+  ul, ol {
+    padding-left: 1.5rem;
+  }
+
   a {
     color: #303F91;
     text-decoration: none;
     border-bottom: 1px dotted currentColor;
     transition: border-color 0.2s;
   }
+
   a:hover {
     border-color: transparent;
   }
 </style>
+
 
 
 # Terms & Conditions
