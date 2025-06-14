@@ -46,8 +46,6 @@ permalink: /terms/
 
 <span class="last-updated">Last updated: June 2025</span>
 
-Last updated: June 2025
-
 1. Agreement to Terms
 By accessing repurposerocket.io (the “Site”) and any services we provide (collectively, the “Service”), you agree to be bound by these Terms and our Privacy Policy. If you disagree with any part, please do not use the Service.
 
