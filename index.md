@@ -4,7 +4,6 @@ title: Terms & Conditions
 permalink: /terms/  # pretty URL → .../terms/
 ---
 
-# Terms & Conditions  
 
 Last updated: June 2025  
 
