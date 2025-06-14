@@ -42,8 +42,9 @@ permalink: /terms/
   }
 </style>
 
-
 # Terms &amp; Conditions
+
+<span class="last-updated">Last updated: June 2025</span>
 
 Last updated: June 2025
 
@@ -115,3 +116,5 @@ Governing Law: Texas and applicable U.S. federal law.
 Severability: If any provision is unenforceable, the remainder remains in effect.
 
 Entire Agreement: These Terms and the Privacy Policy form the entire agreement between you and us.
+
+<p><a href="https://repurposerocket.io/">← Back to Repurpose Rocket</a></p>
