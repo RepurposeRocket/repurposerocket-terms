@@ -1,3 +1,16 @@
+---
+layout: page        # tells Jekyll to wrap with the “page” template
+title: Terms & Conditions
+permalink: /terms/  # pretty URL → .../terms/
+---
+
+# Terms & Conditions  
+
+Last updated: June 2025  
+
+*(rest of your Markdown here)*  
+
+
 Repurpose Rocket – Terms and Conditions of Use
 Last updated: [June 13, 2025]
 
