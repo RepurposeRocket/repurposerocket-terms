@@ -48,7 +48,6 @@ permalink: /terms/
 </style>
 
 
-
 # Terms & Conditions
 
 <span class="last-updated">Last updated: June 2025</span>
@@ -58,7 +57,6 @@ By accessing repurposerocket.io (the “Site”) and any services we provide (co
 
 2. Who We Are
 Repurpose Rocket is a trading name of Sam Francisco Productions LLC (“Company,” “we,” “us,” “our”), registered in the State of Texas, USA.
-<span class="last-updated">Last updated: June 2025</span>
 
 <p>Contact: <a href="mailto:hello@repurposerocket.io">hello@repurposerocket.io</a></p>
 
