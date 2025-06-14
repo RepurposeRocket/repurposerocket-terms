@@ -3,34 +3,40 @@ layout: none
 permalink: /terms/
 ---
 
+<!-- Give the browser a responsive viewport -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
 <style>
-  /* Typography & layout */
+  /* … your CSS goes here … */
+</style>
+
+<style>
+  /* Fluid typography: grow/shrink between min & max */
+  html {
+    /* Base font: between 16px and 20px, scaling with 1.5vw */
+    font-size: clamp(16px, 1.5vw, 20px);
+  }
   body {
     font-family: 'Helvetica Neue', Arial, sans-serif;
     max-width: 720px;
     margin: 0 auto;
-    padding: 3rem 1.5rem;
+    padding: 2rem 1.5rem;
     color: #222;
     line-height: 1.6;
   }
   h1 {
-    font-size: 3rem;
+    /* H1: between 32px and 48px, scaling with 4vw */
+    font-size: clamp(32px, 4vw, 48px);
     margin: 2rem 0 1rem;
   }
-  .last-updated {
-    font-size: 0.875rem;
-    color: #666;
-    margin-bottom: 2rem;
-    display: block;
-  }
   p, li {
-    font-size: 1.125rem;
+    /* Body text: between 18px and 24px, scaling with 2vw */
+    font-size: clamp(18px, 2vw, 24px);
     margin-bottom: 1.25rem;
   }
   ul, ol {
     padding-left: 1.5rem;
   }
-  /* Links */
   a {
     color: #303F91;
     text-decoration: none;
@@ -40,9 +46,16 @@ permalink: /terms/
   a:hover {
     border-color: transparent;
   }
+  .last-updated {
+    font-size: clamp(0.875rem, 1vw, 1rem);
+    color: #666;
+    margin-bottom: 2rem;
+    display: block;
+  }
 </style>
 
-# Terms &amp; Conditions
+
+# Terms & Conditions
 
 <span class="last-updated">Last updated: June 2025</span>
 
