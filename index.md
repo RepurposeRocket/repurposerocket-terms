@@ -6,9 +6,7 @@ permalink: /terms/  # pretty URL → .../terms/
 
 
 Last updated: June 2025  
----
-*(rest of your Markdown here)*  
----
+
 
 Repurpose Rocket – Terms and Conditions of Use
 Last updated: [June 13, 2025]
