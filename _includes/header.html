@@ -1,5 +1,9 @@
-<h1 class="site-title">{{ site.title }}</h1>
-class="no-link"
+<header class="site-header" role="banner">
+  <div class="wrapper">
+    <h1 class="site-title no-link">{{ site.title }}</h1>
+  </div>
+</header>
+
 
   <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
