@@ -74,6 +74,6 @@ We may update these Terms; material changes will be posted with a new “Last up
 These Terms are governed by the laws of the State of Texas, USA, without regard to conflict-of-laws rules. Any dispute shall be resolved by binding arbitration in Austin, Texas, under AAA Commercial Rules. Either party may seek injunctive relief in state or federal court to protect intellectual property.
 
 **16. Contact**
-Questions? <p>Email: <a href="mailto:hello@repurposerocket.io">hello@repurposerocket.io</a></p>
+Questions? Email: [hello@repurposerocket.io](mailto:hello@repurposerocket.io)
 
 <p><a href="https://repurposerocket.io/">← Back to Repurpose Rocket</a></p>
