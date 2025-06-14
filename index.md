@@ -4,19 +4,34 @@ permalink: /terms/
 ---
 
 <style>
-  /* Quick, page-only styles: adjust font & layout to match your Framer site */
-  body {
-    font-family: Arial, sans-serif;
-    max-width: 700px;
-    margin: 0 auto;
-    padding: 2rem;
-    color: #222;
-    line-height: 1.6;
-  }
-  h1 {
-    font-size: 2.5rem;
-    margin-bottom: 1rem;
-  }
+body {
+  font-family: 'YourFramerFont', sans-serif;
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 2rem;
+  color: #222;
+  line-height: 1.6;
+}
+
+h1 {
+  font-size: 2.75rem; /* match your Framer H1 */
+  margin-bottom: 1rem;
+}
+
+p, li {
+  font-size: 1.125rem; /* match your Framer body text */
+  margin-bottom: 1rem;
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+a {
+  color: #303F91; /* or your Framer link color */
+  text-decoration: none;
+}
+
 </style>
 
 # Terms &amp; Conditions
